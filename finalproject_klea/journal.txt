@@ -1,0 +1,23 @@
+/**
+ * Final Project Evite Code
+ * klea@usc.edu
+ * ITP 265, Spring 2022
+ * [coffee] Class Section
+ **/
+
+4/27
+made most of the classes
+currently working on the main function
+need to implement way to save parties for individuals
+4/29
+finished file saving part
+need to figure out rsvp method and way to save for each guest
+
+4/30
+finished making RSVP methods
+need to implement more on members vs free
+
+5/2
+added a membership creation and made it so only members can have party size greater than 10
+fixed some errors around saving guest statuses
+added way for a person to create party if they have no parties when they view party
